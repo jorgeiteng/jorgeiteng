@@ -15,6 +15,22 @@ This is my **technical engineering space** — where I build, experiment, learn,
 🧪 Technical experiments & PoCs
 📚 Learning projects
 
+## 🎓 Course Work (2014)
+
+My **DevMountain Full-Stack Web Development** term (January – February 2014) — the
+JavaScript foundations that came before I turned to security. Kept here as a record
+of where it started; for current work see [sh4z3r](https://github.com/sh4z3r).
+
+| Repository | Assignment | Demonstrates |
+|---|---|---|
+| [`chatty`](https://github.com/jorgeiteng/chatty) | Full-stack chat | Node/Express REST server, AngularJS with an injectable `MessageService`, Karma/Jasmine specs |
+| [`worktalk`](https://github.com/jorgeiteng/worktalk) | SailsJS messaging | MVC structure — models, controllers, routes, auth policies (`isAuthenticated`, `isEmployee`), Socket.IO |
+| [`tmnt`](https://github.com/jorgeiteng/tmnt) | AngularJS team roster | Five custom directives, `ui-router` with promises and services |
+| [`stooge-bloggerz-J`](https://github.com/jorgeiteng/stooge-bloggerz-J) | AngularJS blog | Services and dependency injection (`authorService`, `blogService`) with unit tests |
+
+> Twelve other assignments from the same term are archived. Archived repositories
+> stay public and readable — they just don't clutter the profile.
+
 ## 🗂️ My GitHub
 
 I use two GitHub accounts for different purposes:
