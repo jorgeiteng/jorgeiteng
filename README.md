@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jorge Mayorga
+# 👋 Hey, I'm Jorge Mayorga · Sh4z3r
 
 🛠️ **Engineering** · 🖥️ **Infrastructure** · ☁️ **Cloud** · ⚙️ **Automation** · 🤖 **Practical AI**
 
