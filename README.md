@@ -24,10 +24,15 @@ I use two GitHub accounts for different purposes:
 
 **Both accounts are mine — different focus, same journey.**
 
----
+## 🎮 Adventure Party
 
-💼 [LinkedIn](https://www.linkedin.com/in/jmayorga/) · 🛡️ [Sh4z3r](https://github.com/sh4z3r)
+A Zelda-inspired overworld that runs in the browser with no build step, no bundler, and zero runtime dependencies (~4k lines of vanilla JavaScript). Built as a weekend project with my 10-year-old son, who wanted to understand how a video game is actually made — we used AI coding assistants as a learning partner, iterating until the game matched what he pictured. It covers a `requestAnimationFrame` game loop, finite state machines for shrine and boss flow, seeded procedural generation, Web Audio synthesis, and 235 assertions of testing without a test framework. Original names and art throughout; no Nintendo assets.
 
+→ **[github.com/jorgeiteng/adventure-party](https://github.com/jorgeiteng/adventure-party)**
+
+## 🧳 Travel Platform
+
+A containerized monorepo for a travel platform: Next.js and React with TypeScript on the front end, FastAPI with async SQLAlchemy and Alembic against PostgreSQL, tied together by Docker Compose and an OpenAPI-typed client. Deliberately security-forward — BunkerWeb as a WAF in production, `nh3`/DOMPurify sanitisation, SlowAPI rate limiting, `pip-audit` failing the build on pinned CVEs, and S3-compatible media storage with a local fallback. Deployment is shell-driven (provisioning, backup/restore, TLS renewal, log persistence) with runbooks for rollback, monitoring, and WAF test coverage. The repository is private for now.
 
 ## 🎓 Course Work (2014)
 
@@ -46,7 +51,9 @@ Kept here as a record of where it started. For my current work, see [sh4z3r](htt
 > Twelve other assignments from the same term are archived. Archived repositories
 > stay public and readable — they just don't clutter the profile.
 
-📬 **Reach me on Telegram:** [t.me/sh4z3r](https://t.me/sh4z3r)
+---
+
+💼 [LinkedIn](https://www.linkedin.com/in/jmayorga/) · 🛡️ [Sh4z3r](https://github.com/sh4z3r) · 📬 [Telegram](https://t.me/sh4z3r)
 
 <!--
 **jorgeiteng/jorgeiteng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
